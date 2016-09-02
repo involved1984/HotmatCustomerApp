@@ -18,7 +18,7 @@
     </author>
 
     <!-- Define the main entry-point to the application -->
-    <content src="index.html" />
+    <content src="http://www.hotmat.se/customer_app/www/index.php" />
 
     <!--
         If you do not want any permissions to be added to your app, add the
