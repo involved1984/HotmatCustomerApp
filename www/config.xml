@@ -64,7 +64,7 @@
     <gap:plugin name="org.apache.cordova.globalization" /-->
     <gap:plugin name="org.apache.cordova.geolocation" />
     <gap:plugin name="org.apache.cordova.inappbrowser" spec="0.6.0" source="pgb" />
-    <plugin name="com.phonegap.plugin.statusbar" spec="1.1.0" source="pgb" />
+    
     <!--gap:plugin name="org.apache.cordova.media" />
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
@@ -79,6 +79,8 @@
     	<param name="APP_ID" value="677312575732515" />
     	<param name="APP_NAME" value="Hotmat" />
     </gap:plugin>
+    <plugin name="com.phonegap.plugin.statusbar" spec="1.1.0" source="pgb" />
+    <plugin name="com.phonegap.plugins.pushplugin" spec="2.5.0" source="pgb" />
     
 
     <!-- Define app icon for each platform. -->
